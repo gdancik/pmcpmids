@@ -1,0 +1,11 @@
+Package: pmcpmids
+Type: Package
+Title: PMC PMID data 
+Version: 1.0
+Date: 2018-11-14
+Author: Garrett M. Dancik 
+Maintainer: Garrett Dancik <dancikg@easternct.edu>
+Description: PMC PMID data for use with pmc2nc 
+License: GPL (>= 2)
+LazyData: true
+RoxygenNote: 6.1.1
